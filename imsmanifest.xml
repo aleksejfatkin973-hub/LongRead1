@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone = "no" ?>
+<manifest identifier="_Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca" version="1"
+                        xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+          xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+          xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+          xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+          xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                              http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                              http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd"
+    >
+    <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>2004 4th Edition</schemaversion>
+            </metadata>
+
+    <organizations default="Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca_ORG">
+        <organization identifier="Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca_ORG">
+            <title>&quot;Совмещение элементов ампира и модерна в архитектуре - от теории к макету&quot;</title>
+
+
+
+
+
+            <item identifier="Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca__SCO" identifierref="__Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca_RES" isvisible="true">
+                <title>&quot;Совмещение элементов ампира и модерна в архитектуре - от теории к макету&quot;</title>
+
+
+
+
+
+            </item>
+        </organization>
+    </organizations>
+
+    <resources>
+        <resource identifier="__Sovmeshhenieelementovampiraimodernavarxitektureotteoriikmaketuabaaddfaca_RES" type="webcontent"  adlcp:scormType="sco"  href="index.html">
+            <file href="index.html"/>
+            <file href="css/export.css"/>
+            <file href="css/course.css"/>
+            <file href="css/baguetteBox.min.css"/>
+            <file href="js/SCORM_API_wrapper.js"/>
+            <file href="js/course.js"/>
+            <file href="js/index.min.js"/>
+            <file href="js/lz-string.js"/>
+            <file href="js/baguetteBox.min.js"/>
+            <file href="js/scorm_2004_libs.js"/>
+            <file href="js/popper.js"/>
+            <file href="js/tippy.js"/>
+
+            <file href="images/content/6K6JhvidoogJlzg0Qg4xcKbJuNzbOpaz8mmCiQt7.jpg"/><file href="images/content/GQ7NJwYKnQqMivc0VQM70AZTm6ozxNcv8U1Iy1C2.jpg"/><file href="images/content/Rf3Q9vN7j1qF2kQWxcViY1fvlV2fzq7KhaVSeNg5.jpg"/><file href="images/content/k69S5LwZx77uBIENl9fQAadZeAyYPM4rCgkamiKw.webp"/><file href="images/Xv1zicMzqCbMmFrbJsrk6vjl9f5cUqafOPwoAmVX.jpg"/><file href="fonts/HelveticaNeue-Light.otf"/><file href="fonts/HelveticaNeue-Medium.otf"/><file href="fonts/Montserrat-Bold.ttf"/><file href="fonts/Montserrat-Regular.ttf"/><file href="fonts/Mulish-VariableFont_wght.ttf"/><file href="fonts/OpenSans-Bold.ttf"/><file href="fonts/OpenSans-Regular.ttf"/><file href="fonts/PTSans-Bold.ttf"/><file href="fonts/PTSans-Regular.ttf"/><file href="fonts/Raleway-Bold.ttf"/><file href="fonts/Raleway-Regular.ttf"/><file href="fonts/Roboto-Bold.ttf"/><file href="fonts/Roboto-Regular.ttf"/><file href="fonts/RobotoSlab-Bold.ttf"/><file href="fonts/RobotoSlab-Regular.ttf"/>
+        </resource>
+    </resources>
+</manifest>
